@@ -1,4 +1,7 @@
 # Tunahan Topbaş
+<p align="center">
+  <img src="https://github.com/tunahntopbas/tunahntopbas/blob/main/Work%20Working%20GIF%20by%20Pudgy%20Penguins.gif?raw=true" width="350" />
+</p>
 
 ### Computer Engineering Student | DevOps & Cloud-Native Focus
 
