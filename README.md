@@ -11,14 +11,14 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="YUKLEDIGIN_GIF_LINKINI_BURAYA_YAPISTIR" width="100%" />
+      <img src="https://github.com/tunahntopbas/tunahntopbas/blob/main/Work%20Working%20GIF%20by%20Pudgy%20Penguins.gif?raw=true" width="100%" />
     </td>
   </tr>
 </table>
 
 ### Computer Engineering Student | DevOps & Cloud-Native Focus
 
-## Social: 🌐
+## social: 🌐
 
 <p align="left">
   <a href="https://linkedin.com/in/tunahan-topbaş" target="_blank">
@@ -37,7 +37,7 @@
 
 ---
 
-## About Me: 🚀
+## about me: 🚀
 
 I am a Computer Engineering student dedicated to automating complex systems and building scalable infrastructures. My focus lies in leveraging cloud technologies and operational processes to enhance software development efficiency.
 
@@ -47,7 +47,7 @@ I am a Computer Engineering student dedicated to automating complex systems and 
 
 ---
 
-## Technical Stack: 💻
+## technical stack: 💻
 
 * **Languages:** C#, C++, Swift, Python.
 * **Backend & Frameworks:** ASP.NET Core, SwiftUI.
