@@ -15,3 +15,9 @@
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tunahntopbas/tunahntopbas/output/github-snake-dark.svg" alt="snake" />
+</p>
