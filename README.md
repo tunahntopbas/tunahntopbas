@@ -1,7 +1,20 @@
 # Tunahan Topbaş
-<p align="center">
-  <img src="https://github.com/tunahntopbas/tunahntopbas/blob/main/Work%20Working%20GIF%20by%20Pudgy%20Penguins.gif?raw=true" width="350" />
-</p>
+<table align="center">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>About Me: 🚀</h3>
+      <p>I am a Computer Engineering student dedicated to automating complex systems and building scalable infrastructures. My focus lies in leveraging cloud technologies and operational processes to enhance software development efficiency.</p>
+      <ul>
+        <li><b>DevOps Focus</b>: Actively managing cloud infrastructure using AWS, Docker, and Kubernetes with a focus on CI/CD pipelines and GitOps practices.</li>
+        <li><b>Development</b>: Building robust backend systems with ASP.NET Core and developing mobile applications using Swift/SwiftUI.</li>
+        <li><b>Goal</b>: Passionate about automation and developing production-grade, scalable, and highly available architectures.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="YUKLEDIGIN_GIF_LINKINI_BURAYA_YAPISTIR" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ### Computer Engineering Student | DevOps & Cloud-Native Focus
 
