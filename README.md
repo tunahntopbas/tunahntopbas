@@ -1,6 +1,4 @@
-# Tunahan Topbaş
-
-<img src="https://github.com/tunahntopbas/tunahntopbas/blob/main/Work%20Working%20GIF%20by%20Pudgy%20Penguins.gif?raw=true" align="right" width="300" />
+<img src="https://github.com/tunahntopbas/tunahntopbas/blob/main/Work%20Working%20GIF%20by%20Pudgy%20Penguins.gif?raw=true" align="right" width="400" />
 
 ## about me: 🚀
 
