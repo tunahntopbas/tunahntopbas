@@ -1,12 +1,12 @@
 <table border="0">
   <tr style="border: none;">
     <td width="60%" valign="top" style="border: none;">
-      <h2>about me: 🚀</h2>
+      <h2>about me </h2>
       <p>I am a computer engineering student specializing in scalable systems and infrastructure automation. I work across the full lifecycle of software, from building robust backends with ASP.NET Core and mobile apps with SwiftUI to managing production-grade environments using AWS, Docker, and Kubernetes. My core focus is on bridging the gap between development and operations through GitOps and CI/CD.</p>
       <br>
       <h2>technical stack: 💻</h2>
-      <strong>Languages:</strong> C#, C++, Swift, Python <br>
-      <strong>Backend & Mobile:</strong> ASP.NET Core, SwiftUI <br>
+      <strong>Languages:</strong> C#, C++, Python <br>
+      <strong>Backend & Mobile:</strong> ASP.NET Core <br>
       <strong>Databases:</strong> PostgreSQL, MongoDB <br>
       <strong>Cloud & DevOps:</strong> AWS, Docker, Kubernetes, CI/CD, GitOps, Linux
     </td>
